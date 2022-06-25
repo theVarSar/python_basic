@@ -1,0 +1,6 @@
+Readabilty counts.
+Although practicalty beats purity.
+In the face of ambiguty, refuse the temptation to guess.
+There should be one-- and preferably only one --obvius way to do it.
+If the implimentation is hard to explain, it's a bad idea.
+If the implimentation is easy to explain, it may be a good idea.
